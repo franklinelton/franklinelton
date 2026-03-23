@@ -13,3 +13,5 @@ ferramentas. Aqui compartilho o que construí para provar isso.
 
 > Nenhum desses projetos foi feito por um dev. Foram feitos por alguém 
 > que entende do problema comercial e usou IA para construir a solução.
+
+Caso tenha alguma sugestão, dúvida ou comentário sobre o projeto, me adicione no linkedin: https://www.linkedin.com/in/elton-franklin/
