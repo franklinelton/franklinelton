@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, sou Elton Franklin 👋
 
-<!--
-**franklinelton/franklinelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional da área comercial que usa tecnologia para resolver 
+problemas reais de negócio — sem ser desenvolvedor.
 
-Here are some ideas to get you started:
+Acredito que qualquer pessoa de negócio pode construir suas próprias 
+ferramentas. Aqui compartilho o que construí para provar isso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que você vai encontrar aqui
+- 🏪 Portal de gestão de PSO
+- 🔍 Crawler de monitoramento de preços
+- 📊 Analisador de elasticidade e estratégia comercial - Work in Progress
+
+> Nenhum desses projetos foi feito por um dev. Foram feitos por alguém 
+> que entende do problema comercial e usou IA para construir a solução.
