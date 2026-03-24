@@ -7,7 +7,7 @@ Acredito que qualquer pessoa de negócio pode construir suas próprias
 ferramentas. Aqui compartilho o que construí para provar isso.
 
 ## O que você vai encontrar aqui
-- 🏪 Portal de gestão de PSO
+- 🏪 [Portal de gestão de PSO](https://franklinelton.github.io/priceiq/)
 - 🔍 Crawler de monitoramento de preços
 - 📊 Analisador de elasticidade e estratégia comercial - Work in Progress
 
